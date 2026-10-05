@@ -4,9 +4,9 @@ Static, self-contained website for Bangladesh RMG and textile teams exploring Tr
 
 ## Live preview
 
-[Open the GitHub Pages preview](https://bitscol-soft.github.io/deshik-consulting/)
+Target URL: [https://bitscol-soft.github.io/deshik-consulting/](https://bitscol-soft.github.io/deshik-consulting/) (available once GitHub Pages is enabled for this repository).
 
-The `Publish GitHub Pages preview` workflow deploys updates pushed to the Arena working branch `arena/01a10b12-deshik-consulting`. The workflow run exposes the deployed page URL in its `github-pages` environment. [View workflow runs](https://github.com/bitscol-soft/deshik-consulting/actions/workflows/deploy-pages.yml).
+The `Publish GitHub Pages preview` workflow deploys updates pushed to the Arena working branch `arena/01a10b12-deshik-consulting`. GitHub Pages is not enabled yet: a repository admin must open [Settings → Pages](https://github.com/bitscol-soft/deshik-consulting/settings/pages) and set **Build and deployment → Source** to **GitHub Actions**. Then rerun the workflow from the [Actions page](https://github.com/bitscol-soft/deshik-consulting/actions/workflows/deploy-pages.yml). The workflow will publish the 16 HTML pages and expose the live URL in its `github-pages` environment.
 
 ## Pages
 
