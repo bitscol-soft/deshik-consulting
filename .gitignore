@@ -1,0 +1,4 @@
+# Generated download bundles and GitHub Pages staging output
+*.zip
+/downloads/
+/_site/
